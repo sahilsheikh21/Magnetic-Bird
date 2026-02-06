@@ -90,4 +90,4 @@ This is a demo project created for educational purposes.
 
 ## Credits
 
-Inspired by the classic Flappy Bird game by Dong Nguyen.
+Inspired by the classic Flappy Bird game.
