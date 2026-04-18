@@ -1,7 +1,6 @@
 # Magnetic Flappy Bird 🐦🧲
 
-An Android Flappy Bird game controlled by your phone's magnetic sensor! Bring a magnet near your phone to make the bird jump.
-
+A unique twist on the classic Flappy Bird game controlled by magnets!  Instead of tapping the screen, bring a magnet close to your phone's magnetic sensor to make the bird fly. This project demonstrates the potential of Android's SensorManager API to create unconventional game controls.
 ## Features
 
 - **Magnetic Sensor Control**: Use a magnet (like a fridge magnet or phone case magnet) to control the bird
