@@ -6,7 +6,7 @@ A unique twist on the classic Flappy Bird game controlled by magnets!  Instead o
 - **Magnetic Sensor Control**: Use a magnet (like a fridge magnet or phone case magnet) to control the bird
 - **Classic Flappy Bird Gameplay**: Navigate through pipes and score points
 - **Smooth Physics**: Realistic gravity and jump mechanics
-- **Simple Graphics**: Clean, colorful design
+- **Simple Graphics**: Clean, colorful design.
 
 ## How to Play
 
