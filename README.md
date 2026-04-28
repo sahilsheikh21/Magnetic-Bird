@@ -27,7 +27,7 @@ A unique twist on the classic Flappy Bird game controlled by magnets!  Instead o
 ### Prerequisites
 
 - Android Studio Arctic Fox or newer
-- JDK 8 or higher
+- JDK 8 or higher.
 - Android SDK with API level 34
 
 ### Build Instructions
